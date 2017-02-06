@@ -21,7 +21,6 @@ define(
             isShowAvailableQty: function(){
                 return true;
             },
-
             closeDetailPopup: function() {
                 $("#popup-product-detail").hide();
                 $(".wrap-backover").hide();
